@@ -1,2 +1,2 @@
 # Python-Networking
-Objective: To learn, understand, &amp; explain Python 3.x for Networking purposes at a fundamental level.
+Objective: To learn, understand, &amp; explain Python 3.x at a fundamental level for Networking purposes.
