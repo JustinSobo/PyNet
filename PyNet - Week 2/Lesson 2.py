@@ -1,10 +1,7 @@
 Note: There is a table of contents for each video at the bottom of this email including timestamps to where various content is located. This should be helpful in navigating the videos.
 
-
 ﻿In this email of Learning Python we are going to cover the following:
 
-
- 
 Numbers
 Video https://vimeo.com/244128549
 Length is 9 minutes
